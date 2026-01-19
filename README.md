@@ -11,6 +11,7 @@ Com meus estudos já tive conhecimento introdutório nas seguintes tecnologias:
 Cursando Engenharia da computação, já no 7°Semestre, onde já obtive conhecimentos sobre:
 * Redes de computadores;
 * Organização e Arquitetura de computadores I;
+* Organização e Arquitetura de computadores II;
 * Fundamentos computacionais;
 * lógica computacional;
 * Sistemas operacionais;
@@ -18,6 +19,7 @@ Cursando Engenharia da computação, já no 7°Semestre, onde já obtive conheci
 * Logica de programação I;
 * lógica de programação II;
 * Estrutura de Dados;
+* Banco de dados;
 * Requisitos de software;
 
 E alguns estudos que foram feitos por fora da faculdade puderam me oferecer os seguintes conhecimentos:
