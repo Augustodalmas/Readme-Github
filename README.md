@@ -18,6 +18,7 @@ Cursando Engenharia da computação, já no 7°Semestre, onde já obtive conheci
 * Logica de programação I;
 * lógica de programação II;
 * Estrutura de Dados;
+* Requisitos de software;
 
 E alguns estudos que foram feitos por fora da faculdade puderam me oferecer os seguintes conhecimentos:
 * Python;
